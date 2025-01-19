@@ -1,2 +1,8 @@
 # Virtual environment
 .venv
+
+# Python cache
+__pycache__
+
+# Test datasets
+test_data.json
